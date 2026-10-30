@@ -1,11 +1,11 @@
 
 :root {
-  --ink: #1b2233;          /* main text */
-  --muted: #5b6577;        /* softer text */
-  --page: #f2f5f9;         /* page background */
-  --panel: #ffffff;        /* white boxes */
-  --accent: #23305e;       /* default accent (home page) */
-  --accent-soft: #e4e8f4;  /* light version of accent */
+  --ink: #1b2233;          
+  --muted: #5b6577;       
+  --page: #f2f5f9;        
+  --panel: #ffffff;       
+  --accent: #23305e;       
+  --accent-soft: #e4e8f4;  
 }
 
 body.home     
